@@ -11,7 +11,7 @@ module.exports = {
         "undergraduate": "（本科）"
     },
     link_type: {
-        "zhihu": "知乎",
+        "imooc": "慕课网",
         "doubanbook": "豆瓣读书",
         "repo": "源代码",
         "pdf": "PDF 下载"
